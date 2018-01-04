@@ -1,0 +1,9 @@
+C:\Users\maxbe\source\repos\HueSync\HueSync\bin\Debug\HueSync.exe.config
+C:\Users\maxbe\source\repos\HueSync\HueSync\bin\Debug\HueSync.exe
+C:\Users\maxbe\source\repos\HueSync\HueSync\bin\Debug\HueSync.pdb
+C:\Users\maxbe\source\repos\HueSync\HueSync\obj\Debug\HueSync.csprojResolveAssemblyReference.cache
+C:\Users\maxbe\source\repos\HueSync\HueSync\obj\Debug\HueSync.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\source\repos\HueSync\HueSync\obj\Debug\HueSync.exe
+C:\Users\maxbe\source\repos\HueSync\HueSync\obj\Debug\HueSync.pdb
+C:\Users\maxbe\source\repos\HueSync\HueSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxbe\source\repos\HueSync\HueSync\bin\Debug\Newtonsoft.Json.xml
